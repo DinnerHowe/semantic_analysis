@@ -1,0 +1,2 @@
+Copy the contents of the file-like object fsrc to the file-like object fdst. The integer length, if given, is the buffer size.
+Copy the permission bits from src to dst. The file contents, owner, and group are unaffected. src and dst are path names given as strings.

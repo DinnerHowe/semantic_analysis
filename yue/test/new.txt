@@ -1,0 +1,1 @@
+ contents of file-like object fsrc to file-like object fdst. integer length, if given, buffer size.  permission bits from src to dst. file contents, owner, and group unaffected. src and dst path names given as strings. 
